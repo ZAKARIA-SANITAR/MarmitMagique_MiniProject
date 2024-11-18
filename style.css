@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+header{
+
+background-color : #1E90FF;
+padding : lem;
+font-family : sans-serif;
+height:170px;}
+
+.f{
+float :left;}
+
+.i{
+border-color:rgb(98, 112, 105);
+border : 12px;
+background-color:white;}
+
+article{
+background-color : #ADD8E6;
+height:250px;}
+
+footer{
+text-align : center;
+background-color:#1E90FF; 
+height:80px;}
+
+
+table{
+color :black; }
+
+.C{
+height:640px;}
+
+.G{color :  White;
+background-color: #013001;}
+
+.K{background-color: #19d819;
+color :  Black;}
+
+.D{background-color:#76ff76;
+color :  White;}
+.s{border:hidden;}
+
+.sss{  
+height:45px;
+Width: 	200px;
+border: solid 2px #FAEBD7;
+background-color:#ADD8E6;}
+
+.nom{float:left;
+color: white;
+height:45px;
+Width: 	200px;
+border: solid 2px #024902;
+background-color:#006400;}
+
+.prenom{
+float:left;
+color: white;
+height:40px;
+Width: 	200px;
+border: solid 2px #ADD8E6;
+background-color: #024902;}
+
+.email{float:left;
+color: white;
+height:45px;
+Width: 	200px;
+border: solid 2px #006400;
+background-color: #024902;}
+
+.Pr{float:left;
+    color: white;   
+height:45px;
+Width: 	200px;
+border: solid 2px #006400;
+background-color:  #024902;}
+
+.VOUS{float:left;
+color: white;
+height:45px;
+Width: 	200px;
+border: solid 2px #006400;
+background-color: #024902;}
